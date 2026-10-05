@@ -1,0 +1,6 @@
+{
+  "name": "TOKO POS - Kasir Penjualan Modern",
+  "description": "Aplikasi Kasir / POS Penjualan modern, cepat, dan mudah digunakan dengan fitur barcode scanner, kalkulator kembalian otomatis, QRIS, dan cetak struk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
